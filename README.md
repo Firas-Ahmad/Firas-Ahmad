@@ -16,39 +16,6 @@
 
 <br>
 
-
-## 📊 GitHub Stats
-
-<div align="center" style="width: 100%; display: flex; justify-content: center;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="margin-right: 10%; width:45%; height: 300px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="width: 45%; height: 300px;" />
-</div>
-
-## 🌟 Featured Projects
-
-<div align="center" style="padding-top: 50px; padding-bottom: 50px;">
-    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
-        </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
-        </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
-        </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
-        </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
-        </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
-        </a>
-    </div>
-</div>
-
 ## 🛠 Tech Stack
 
 ### 👨‍💻 Programming Languages
@@ -107,6 +74,41 @@
     <a href="https://www.linkedin.com/in/your-linkedin-profile/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
     <a href="https://github.com/your-github-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
+
+## 📊 GitHub Stats
+
+<div align="center" style="width: 100%; display: flex; justify-content: center;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="margin-right: 10%; width:45%; height: 300px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="width: 45%; height: 300px;" />
+</div>
+
+
+## 🌟 Featured Projects
+
+<div align="center" style="padding-top: 50px; padding-bottom: 50px;">
+    <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
+        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        </a>
+        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        </a>
+        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        </a>
+        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        </a>
+        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        </a>
+        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        </a>
+    </div>
+</div>
+
+<br>
 
 <div align="center" style="padding-top: 30px; padding-bottom: 30px;">
     <img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=#2f8b85" alt="waving footer" />
