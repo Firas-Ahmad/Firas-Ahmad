@@ -21,7 +21,7 @@
 
 <div align="center" style="width: 100%; display: flex; justify-content: center;">
     <img src="https://github-readme-stats.vercel.app/api?username=Firas-AL-Ahmad&theme=tokyonight&show_icons=true" alt="GitHub Stats" style="margin-right: 10%; width:45%; height: 300px;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karemSD&theme=tokyonight&hide_progress=true" alt="Top Languages" style="width: 45%; height: 300px;" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Firas-AL-Ahmad&theme=tokyonight&layout=compact" alt="Top Languages" style="width: 45%; height: 300px;" />
 </div>
 
 ## 🌟 Featured Projects
