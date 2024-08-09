@@ -87,23 +87,17 @@
 
 <div align="center" style="padding-top: 50px; padding-bottom: 50px;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 50px;">
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        <a href="https://github.com/Firas-AL-Ahmad/training-website">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas-AL-Ahmad&theme=tokyonight&repo=training-website" alt="Readme Card" />
         </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        <a href="https://github.com/Firas-AL-Ahmad/Training-Company-Website">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas-AL-Ahmad&theme=tokyonight&repo=Training-Company-Website" alt="Readme Card" />
         </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        <a href="https://github.com/Firas-AL-Ahmad/Our-Team-Card">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas-AL-Ahmad&theme=tokyonight&repo=Our-Team-Card" alt="Readme Card" />
         </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
-        </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
-        </a>
-        <a href="https://github.com/Firas21Ahmad/Plans-To-Do">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas21Ahmad&theme=tokyonight&repo=Plans-To-Do" alt="Readme Card" />
+        <a href="https://github.com/Firas-AL-Ahmad/first-personal-website">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Firas-AL-Ahmad&theme=tokyonight&repo=first-personal-website" alt="Readme Card" />
         </a>
     </div>
 </div>
